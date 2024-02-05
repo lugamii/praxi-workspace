@@ -1,5 +1,5 @@
 # praxi-workspace
-A workspace for Praxi, Zoot &amp; SpigotX
+A workspace for Praxi, Zoot, SpigotX &amp; FairFight
 
 # Compiling
 Just use 'mvn clean install' on the main folder :P
