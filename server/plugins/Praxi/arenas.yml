@@ -1,0 +1,348 @@
+arenas:
+  Colors:
+    type: SHARED
+    spawnA: world:1012.651491377576:65.0:-56.49892698458889:359.99673:-0.9336488
+    spawnB: world:1012.4015754326532:65.0:37.6475450567202:179.27171:-3.0162969
+    cuboid:
+      location1: world:975.0:57.0:-60.0:0.0:0.0
+      location2: world:1049.0:137.0:40.0:0.0:0.0
+    kits:
+    - NoDebuff
+    - Boxing
+    - Classic
+    - Gapple
+    - HCF
+    - Combo
+    - Archer
+    - Soup
+    rating: 0.0
+  Aqua:
+    type: SHARED
+    spawnA: world:1700.4332507778797:65.0:6.4919145005207834:-0.5084531:1.3013504
+    spawnB: world:1700.5190208055703:65.0:81.63001219039205:-180.61304:-0.7434927
+    cuboid:
+      location1: world:1668.0:59.0:1.0:0.0:0.0
+      location2: world:1732.0:123.0:86.0:0.0:0.0
+    kits:
+    - NoDebuff
+    - Boxing
+    - Classic
+    - Gapple
+    - HCF
+    - Combo
+    - Archer
+    - Soup
+    rating: 0.0
+  Basket:
+    type: SHARED
+    spawnA: world:2420.419585871864:65.0:-3.550333687396565:89.65812:0.4094546
+    spawnB: world:2372.7964969180903:65.0:-3.537550250105588:-89.85211:0.1492036
+    cuboid:
+      location1: world:2359.0:61.0:-41.0:0.0:0.0
+      location2: world:2433.0:112.0:33.0:0.0:0.0
+    kits:
+    - NoDebuff
+    - Boxing
+    - Classic
+    - Gapple
+    - HCF
+    - Combo
+    - Archer
+    - Soup
+    rating: 0.0
+  DesertRiver:
+    type: SHARED
+    spawnA: world:3115.599272021202:70.0:80.6317852964905:-133.52835:2.5277205
+    spawnB: world:3177.128773035305:70.0:25.716959300217354:-307.4246:1.1519195
+    cuboid:
+      location1: world:3099.0:64.0:0.0:0.0:0.0
+      location2: world:3201.0:111.0:100.0:0.0:0.0
+    kits:
+    - NoDebuff
+    - Boxing
+    - Classic
+    - Gapple
+    - HCF
+    - Combo
+    - Archer
+    - Soup
+    rating: 0.0
+  End:
+    type: SHARED
+    spawnA: world:3800.18334186665:65.0:-80.12061293386135:-0.4466864:-1.8595283
+    spawnB: world:3800.4774518220624:65.0:-5.312588421623781:-179.80772:0.13341767
+    cuboid:
+      location1: world:3768.0:59.0:-86.0:0.0:0.0
+      location2: world:3832.0:123.0:-1.0:0.0:0.0
+    kits:
+    - NoDebuff
+    - Boxing
+    - Classic
+    - Gapple
+    - HCF
+    - Combo
+    - Archer
+    - Soup
+    rating: 0.0
+  Naruto:
+    type: SHARED
+    spawnA: world:4503.515587362469:69.0:31.652235704985088:269.35248:-0.11142574
+    spawnB: world:4597.718887285995:69.0:30.448907934041607:88.54152:-0.78046936
+    cuboid:
+      location1: world:4500.0:64.0:0.0:0.0:0.0
+      location2: world:4600.0:112.0:60.0:0.0:0.0
+    kits:
+    - NoDebuff
+    - Boxing
+    - Classic
+    - Gapple
+    - HCF
+    - Combo
+    - Archer
+    - Soup
+    rating: 0.0
+  Nether:
+    type: SHARED
+    spawnA: world:5079.524955596315:69.0:-54.55932596705962:293.11386:0.9297466
+    spawnB: world:5191.625321049752:69.0:-19.256598473329685:106.95055:0.26050225
+    cuboid:
+      location1: world:5071.0:66.0:-78.0:0.0:0.0
+      location2: world:5199.0:113.0:0.0:0.0:0.0
+    kits:
+    - NoDebuff
+    - Boxing
+    - Classic
+    - Gapple
+    - HCF
+    - Combo
+    - Archer
+    - Soup
+    rating: 0.0
+  Soccer:
+    type: SHARED
+    spawnA: world:6229.539278428518:73.0:69.4514606912372:269.78143:-1.00362
+    spawnB: world:6327.477910518728:73.0:69.40220189207484:89.93664:-2.3422492
+    cuboid:
+      location1: world:6215.0:69.0:19.0:0.0:0.0
+      location2: world:6341.0:132.0:118.0:0.0:0.0
+    kits:
+    - NoDebuff
+    - Boxing
+    - Classic
+    - Gapple
+    - HCF
+    - Combo
+    - Archer
+    - Soup
+    rating: 0.0
+  Streets:
+    type: SHARED
+    spawnA: world:7060.406507205254:67.0:125.9256118547635:180.20647:0.81774503
+    spawnB: world:7060.570563681823:67.0:25.546882114446017:-0.41910174:0.2602875
+    cuboid:
+      location1: world:7000.0:64.0:0.0:0.0:0.0
+      location2: world:7102.0:95.0:132.0:0.0:0.0
+    kits:
+    - NoDebuff
+    - Boxing
+    - Classic
+    - Gapple
+    - HCF
+    - Combo
+    - Archer
+    - Soup
+    rating: 0.0
+  Temple:
+    type: SHARED
+    spawnA: world:7796.448141113173:40.0:-28.640575570176395:-0.19522391:-0.11163221
+    spawnB: world:7796.400919834573:40.0:27.310295541329573:180.28137:0.44600105
+    cuboid:
+      location1: world:7767.0:36.0:-35.0:0.0:0.0
+      location2: world:7828.0:69.0:37.0:0.0:0.0
+    kits:
+    - NoDebuff
+    - Boxing
+    - Classic
+    - Gapple
+    - HCF
+    - Combo
+    - Archer
+    - Soup
+    rating: 5.0
+  Waterfall:
+    type: SHARED
+    spawnA: world:8461.800079118128:65.0:-8.512965722930765:257.77582:1.226839
+    spawnB: world:8532.558381395473:65.0:-24.579541562472784:78.475006:4.260405
+    cuboid:
+      location1: world:8445.0:59.0:-46.0:0.0:0.0
+      location2: world:8562.0:129.0:35.0:0.0:0.0
+    kits:
+    - NoDebuff
+    - Boxing
+    - Classic
+    - Gapple
+    - HCF
+    - Combo
+    - Archer
+    - Soup
+    rating: 4.0
+  YinYang:
+    type: SHARED
+    spawnA: world:9203.435855983715:71.0:-29.69999998807907:0.16229248:-1.7844028
+    spawnB: world:9203.417355715701:71.0:50.699619468607125:180.24315:-1.6883011
+    cuboid:
+      location1: world:9166.0:62.0:-33.0:0.0:0.0
+      location2: world:9240.0:86.0:53.0:0.0:0.0
+    kits:
+    - NoDebuff
+    - Boxing
+    - Classic
+    - Gapple
+    - HCF
+    - Combo
+    - Archer
+    - Soup
+    rating: 0.0
+  SumoWood:
+    type: SHARED
+    spawnA: world:10030.298891902316:88.0:24.585348096477112:-0.8411775:0.26043144
+    spawnB: world:10030.587881177373:88.0:35.41447017412381:-180.90868:-0.111194596
+    cuboid:
+      location1: world:10000.0:80.0:0.0:0.0:0.0
+      location2: world:10058.0:122.0:61.0:0.0:0.0
+    kits:
+    - Sumo
+    rating: 5.0
+  BuildGrass:
+    type: STANDALONE
+    spawnA: world:10798.325656799727:66.0:-45.39086882376428:0.21379043:-0.5573008
+    spawnB: world:10801.458741041426:66.0:48.39350387737623:-180.5598:1.1159276
+    cuboid:
+      location1: world:10762.0:58.0:-57.0:0.0:0.0
+      location2: world:10840.0:110.0:59.0:0.0:0.0
+    kits:
+    - BuildUHC
+    - SG
+    rating: 0.0
+  BuildNether:
+    type: STANDALONE
+    spawnA: world:11538.48939044404:72.0:8.411612566532:-2.1068497:1.5249873
+    spawnB: world:11539.842069510983:72.0:103.39525396014265:-180.31578:-1.6350191
+    cuboid:
+      location1: world:11500.0:64.0:0.0:0.0:0.0
+      location2: world:11578.0:116.0:116.0:0.0:0.0
+    kits:
+    - BuildUHC
+    - SG
+    rating: 0.0
+  BuildSnow:
+    type: STANDALONE
+    spawnA: world:14236.461018328346:73.0:110.22839022204266:-180.46376:1.4130914
+    spawnB: world:14237.561686342551:72.0:10.490498641030252:-0.7538452:-0.07419552
+    cuboid:
+      location1: world:14200.0:64.0:0.0:0.0:0.0
+      location2: world:14278.0:116.0:116.0:0.0:0.0
+    kits:
+    - BuildUHC
+    - SG
+    rating: 0.0
+  BRCastle:
+    type: STANDALONE
+    spawnA: world:-6.152250285610707:64.0:1000.4414379440616:270.40643:1.1005629
+    spawnB: world:7.397002947842149:64.0:1000.4553281814018:89.28516:1.5467771
+    cuboid:
+      location1: world:-66.0:30.0:946.0:0.0:0.0
+      location2: world:66.0:138.0:1039.0:0.0:0.0
+    kits:
+    - BattleRush
+    rating: 0.0
+  BRCementary:
+    type: STANDALONE
+    spawnA: world:-6.318372340329511:64.0:1800.4734226643:-90.17051:1.3751448
+    spawnB: world:5.1075112444445425:64.0:1800.5510931785475:-270.64697:-2.9378836
+    cuboid:
+      location1: world:-60.0:35.0:1754.0:0.0:0.0
+      location2: world:55.0:122.0:1835.0:0.0:0.0
+    kits:
+    - BattleRush
+    rating: 0.0
+  BFAquarium:
+    type: STANDALONE
+    spawnA: world:-0.41137272009744325:64.0:2300.481961016516:89.03846:-0.20113003
+    spawnB: world:-35.99977602408823:64.0:2300.4388295469994:-90.62013:-1.8743491
+    cuboid:
+      location1: world:-65.0:37.0:2266.0:0.0:0.0
+      location2: world:24.0:107.0:2329.0:0.0:0.0
+    kits:
+    - BedFight
+    rating: 0.0
+  BFCity:
+    type: STANDALONE
+    spawnA: world:0.36009121989660237:65.0:4000.566509728057:178.97893:0.76557153
+    spawnB: world:0.43468047607493404:65.0:3963.6580352586598:-0.82809144:-0.46153265
+    cuboid:
+      location1: world:-26.0:39.0:3930.0:0.0:0.0
+      location2: world:25.0:111.0:4029.0:0.0:0.0
+    kits:
+    - BedFight
+    rating: 0.0
+  PearlGrass:
+    type: STANDALONE
+    spawnA: world:0.5060048322554859:64.0:5015.173282736322:180.20671:1.5839031
+    spawnB: world:0.4267183134706852:64.0:4983.80426085547:-0.7904551:-1.5393369
+    cuboid:
+      location1: world:-24.0:42.0:4970.0:0.0:0.0
+      location2: world:23.0:94.0:5028.0:0.0:0.0
+    kits:
+    - PearlFight
+    rating: 0.0
+  PearlJapan:
+    type: STANDALONE
+    spawnA: world:-19.03206977346913:64.0:5701.626310563789:-90.67064:1.6207405
+    spawnB: world:18.22980291896851:64.0:5701.482139396205:-269.62225:-0.87030756
+    cuboid:
+      location1: world:-35.0:46.0:5670.0:0.0:0.0
+      location2: world:31.0:96.0:5732.0:0.0:0.0
+    kits:
+    - PearlFight
+    rating: 0.0
+  SFAncient:
+    type: STANDALONE
+    spawnA: world:15.844054574241056:64.0:6500.446900743012:88.296:-1.4648417
+    spawnB: world:-11.384704514268545:64.0:6500.567997724975:269.2181:0.6916016
+    cuboid:
+      location1: world:-48.0:37.0:6455.0:0.0:0.0
+      location2: world:61.0:121.0:6548.0:0.0:0.0
+    kits:
+    - StickFight
+    rating: 0.0
+  Construction:
+    type: STANDALONE
+    spawnA: world:0.5196516037495084:70.0:7227.707671222147:179.65048:-0.6469699
+    spawnB: world:0.5242494821881861:70.0:7170.677377434791:-0.342499:-0.08926079
+    cuboid:
+      location1: world:-33.0:35.0:7126.0:0.0:0.0
+      location2: world:40.0:164.0:7264.0:0.0:0.0
+    kits:
+    - Bridges
+    rating: 0.0
+  Football:
+    type: STANDALONE
+    spawnA: world:0.4240748945768007:70.0:8724.668303299513:180.89973:1.6580734
+    spawnB: world:0.5428956681422362:70.0:8676.322846764673:-0.24602643:2.067023
+    cuboid:
+      location1: world:-41.0:39.0:8629.0:0.0:0.0
+      location2: world:43.0:117.0:8779.0:0.0:0.0
+    kits:
+    - Bridges
+    rating: 0.0
+  House:
+    type: STANDALONE
+    spawnA: world:-22.88330511338366:69.0:8000.514449581496:-88.53543:3.3684893
+    spawnB: world:23.38048691101593:69.0:8000.504541342287:-270.2389:-2.2462478
+    cuboid:
+      location1: world:-60.0:43.0:7965.0:0.0:0.0
+      location2: world:70.0:108.0:8041.0:0.0:0.0
+    kits:
+    - Bridges
+    rating: 0.0

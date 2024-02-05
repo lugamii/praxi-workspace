@@ -1,0 +1,8 @@
+name: FairFight
+author: joeleoli
+version: 1.0
+main: com.minexd.fairfight.FairFight
+commands:
+  fairfight:
+    usage: <command>
+    aliases: [ff]

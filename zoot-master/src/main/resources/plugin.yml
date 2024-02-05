@@ -1,0 +1,4 @@
+main: com.minexd.zoot.Zoot
+name: zoot
+author: joeleoli
+version: ${zoot.desc}

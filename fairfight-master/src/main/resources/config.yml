@@ -1,0 +1,19 @@
+# Placeholders: %player%
+name: "&8[&6FairFight&8]"
+ban-broadcast:
+- '&8&m-------------------------------------'
+- ''
+- '&6FairFight &7has removed &e%player%'
+- '&7From the &eMineXD Network.'
+- ''
+- '&8&m-------------------------------------'
+ban-command: "ban %player% FairFight - Unfair Advantage"
+mongo:
+  host: "127.0.0.1"
+  port: 27017
+  database: "fairfight"
+  authentication:
+    enabled: false
+    username: "admin"
+    password: "dev"
+    database: "admin"

@@ -1,0 +1,71 @@
+[10:33:14] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[10:33:14] [Server thread/INFO]: This server is running Spigot version 1.8.8-R0.1-SNAPSHOT (MC: 1.8.8) (Implementing API version Unknown-Version)
+[10:33:14] [Server thread/INFO]: * Allocated memory: 6144
+[10:33:14] [Server thread/INFO]: * Online Mode: true
+[10:33:14] [Server thread/INFO]: * Server Address: :25565
+[10:33:14] [Server thread/INFO]: * View Distance: 10
+[10:33:14] [Server thread/INFO]: [Zoot] Loading Zoot vgit-Zoot-unknown
+[10:33:14] [Server thread/INFO]: [FairFight] Loading FairFight v1.0
+[10:33:14] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v21.03.26-5ff3a9b-1286-22.3.9
+[10:33:14] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.7.0
+[10:33:14] [Server thread/INFO]: [ViaVersion] ViaVersion 4.7.0 is now loaded. Registering protocol transformers and injecting...
+[10:33:15] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[10:33:15] [Server thread/INFO]: [Praxi] Loading Praxi v1.0-SNAPSHOT
+[10:33:15] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.0.0
+[10:33:15] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[10:33:16] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v2.0.2
+[10:33:16] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.7;dd00bb1
+[10:33:16] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v21.03.26-5ff3a9b-1286-22.3.9
+[10:33:16] [Server thread/INFO]: [0;35;1mVault is used for persistent `/wea` toggles.[m
+[10:33:16] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.0.0
+[10:33:16] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v2.0.2
+[10:33:17] [Server thread/INFO]: Preparing start region for level 0 (Seed: 8397336676565913471)
+[10:33:17] [Server thread/INFO]: [Zoot] Enabling Zoot vgit-Zoot-unknown
+[10:33:17] [Server thread/WARN]: [Zoot] Could not save config.yml to plugins\Zoot\config.yml because config.yml already exists.
+[10:33:17] [Server thread/WARN]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+[10:33:17] [Server thread/WARN]: SLF4J: Defaulting to no-operation (NOP) logger implementation
+[10:33:17] [Server thread/WARN]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[10:33:17] [Server thread/INFO]: [FairFight] Enabling FairFight v1.0
+[10:33:18] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.7.0
+[10:33:18] [Server thread/INFO]: [Praxi] Enabling Praxi v1.0-SNAPSHOT
+[10:33:18] [Server thread/WARN]: [Praxi] Could not save config.yml to plugins\Praxi\config.yml because config.yml already exists.
+[10:33:18] [Server thread/WARN]: [Praxi] Could not save arenas.yml to plugins\Praxi\arenas.yml because arenas.yml already exists.
+[10:33:18] [Server thread/WARN]: [Praxi] Could not save kits.yml to plugins\Praxi\kits.yml because kits.yml already exists.
+[10:33:18] [Server thread/WARN]: [Praxi] Could not save events.yml to plugins\Praxi\events.yml because events.yml already exists.
+[10:33:18] [Server thread/INFO]: [Praxi] Loaded 26 arenas
+[10:33:18] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.7;dd00bb1
+[10:33:18] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[10:33:18] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[10:33:18] [Server thread/INFO]: Finished loading the server in 1,200s...
+[10:33:18] [Server thread/INFO]: Timings Reset
+[10:33:18] [Server thread/INFO]: [0;30;1m([0;31;22m[21mFAWE[0;30;1m)[m[0;37;22m Detected class org.bukkit.event.block.BlockExplodeEvent[m
+[10:33:18] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x (47)
+[10:33:18] [Server thread/WARN]: [ViaVersion] This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we are unlikely to provide any further fixes or help with problems specific to legacy Minecraft versions. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
+[10:33:18] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please consider updating it to at least Java 17 (your version is 1.8.0_392). At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[10:33:18] [Craft Scheduler Thread - 3/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[10:33:19] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 4.9.2, you're on: 4.7.0
+[10:34:08] [User Authenticator #1/INFO]: UUID of player therealgucci is 53c01b0f-0253-48df-848a-b5fc1be0d17d
+[10:34:08] [Server thread/INFO]: therealgucci[/127.0.0.1:51293] logged in with entity id 0 at ([world]0.506565969568328, 52.0, 0.516154596835334)
+[10:34:13] [Server thread/INFO]: therealgucci issued server command: /party create
+[10:34:14] [Server thread/INFO]: therealgucci issued server command: /party disband
+[10:34:16] [User Authenticator #2/INFO]: UUID of player LugamiPvP is 64040255-9377-4a99-8088-c2b50b3abca4
+[10:34:16] [Server thread/INFO]: LugamiPvP[/127.0.0.1:51317] logged in with entity id 808 at ([world]0.4897621126292506, 52.0, 6.468995001167115)
+[10:34:40] [Server thread/INFO]: LugamiPvP issued server command: /viewinv 64040255-9377-4a99-8088-c2b50b3abca4
+[10:34:41] [Server thread/INFO]: LugamiPvP issued server command: /viewinv 53c01b0f-0253-48df-848a-b5fc1be0d17d
+[10:34:43] [Server thread/INFO]: LugamiPvP issued server command: /viewinv 64040255-9377-4a99-8088-c2b50b3abca4
+[10:34:47] [Server thread/INFO]: Stopping the server
+[10:34:47] [Server thread/INFO]: Stopping server
+[10:34:47] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.7;dd00bb1
+[10:34:47] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v2.0.2
+[10:34:47] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.0.0
+[10:34:47] [Server thread/INFO]: [Praxi] Disabling Praxi v1.0-SNAPSHOT
+[10:34:47] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.7.0
+[10:34:47] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[10:34:47] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v21.03.26-5ff3a9b-1286-22.3.9
+[10:34:47] [Server thread/INFO]: [FairFight] Disabling FairFight v1.0
+[10:34:47] [Server thread/INFO]: [Zoot] Disabling Zoot vgit-Zoot-unknown
+[10:34:47] [Server thread/INFO]: Saving players
+[10:34:47] [Server thread/INFO]: LugamiPvP lost connection: Server closed
+[10:34:47] [Server thread/INFO]: LugamiPvP left the game.
+[10:34:47] [Server thread/INFO]: Saving worlds
+[10:34:47] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
